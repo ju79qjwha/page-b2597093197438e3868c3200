@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7abcb96139bc9c073e977a0d",
+  "owner": "ju79qjwha",
+  "repo": "page-b2597093197438e3868c3200",
+  "title": "喵速云(CAT77)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b2597093197438e3868c3200",
+      "a": "喵速云(CAT77)",
+      "b": "",
+      "entity": "喵速云(CAT77)",
+      "brand": "喵速云(CAT77)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c9565f1c880154f919d0d3f1c0519fa2f1018ff45b6471338ce8653aefa249ad",
+      "content": {
+        "keyword1": "喵速云(CAT77)",
+        "keyword2": "",
+        "primary_entity": "喵速云(CAT77)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "喵速云(CAT77)是专注高速机场订阅与VPN网络加速的品牌，提供多套餐流量、全球节点、流媒体解锁及全平台客户端官方下载，助力稳定畅快的上网体验。",
+          "AI_DESCRIPTION": "喵速云(CAT77)是专注高速机场订阅与VPN网络加速的品牌，提供多套餐流量、全球节点、流媒体解锁及全平台客户端官方下载，助力稳定畅快的上网体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--coral:#FF7F50;--coral-dark:#E55B3C;--warm:#FFF8F0;--card:#FFFFFF;--text:#2C2C2C;--border:#FFDAB9;--muted:#5C5C5C}*{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:var(--warm);color:var(--text);margin:0;line-height:1.65;font-size:16px}a{color:var(--coral-dark);text-decoration:none}a:focus{outline:2px solid var(--coral);outline-offset:2px}.container{width:100%;max-width:900px;margin:0 auto;padding:12px 16px}header{background:var(--card);border-bottom:3px solid var(--coral);padding:14px 0}.brand{font-weight:700;font-size:1.2rem;color:var(--coral-dark)}nav{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:10px;font-size:0.95rem}main{padding:8px 0 24px}h1{font-size:1.7rem;color:var(--coral-dark);margin:12px 0 14px;line-height:1.3}h2{font-size:1.32rem;color:#C45C26;margin:28px 0 12px;border-bottom:2px solid var(--border);padding-bottom:6px}h3{font-size:1.08rem;color:#A0522D;margin:16px 0 8px}p,li{margin:0 0 10px}.lead{font-size:1.02rem}.plans{display:flex;flex-wrap:wrap;gap:12px;margin:16px 0}.plan{flex:1 1 250px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px}.plan.featured{border:2px solid var(--coral);background:#FFF5F0}.plan h3{margin-top:0}.price{font-size:1.35rem;font-weight:700;color:var(--coral-dark)}.annual{font-size:0.9rem;color:var(--muted);margin-bottom:8px}.plan ul{padding-left:18px;margin:8px 0 0}.note{font-size:0.92rem;color:var(--muted)}details{background:var(--card);border:1px solid var(--border);border-radius:6px;margin-bottom:10px;padding:0 12px}summary{font-weight:600;padding:12px 0}details p{padding-bottom:12px;color:var(--text)}ol{padding-left:22px}footer{background:#F5E6D3;border-top:2px solid var(--coral);padding:20px 0;font-size:0.92rem;margin-top:12px}.friends{display:flex;flex-wrap:wrap;gap:8px 16px;list-style:none;padding:0;margin:8px 0 16px}.friends a{display:inline-block}@media (max-width:640px){h1{font-size:1.42rem}.plans{flex-direction:column}.plan{flex-basis:auto}nav{gap:8px 12px}}</style><header><div class=\"container\"><div class=\"brand\">喵速云(CAT77) 官方网站</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenarios\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#partners\">合作友链</a></nav></div></header><main><div class=\"container\"><h1>喵速云(CAT77)</h1><p class=\"lead\">喵速云(CAT77)官方网站提供机场订阅、VPN梯子网络加速与多端客户端下载指引。我们以稳定节点、清晰套餐和可落地的配置步骤，帮助用户按需选择加速方案。</p><section id=\"intro\"><h2>品牌简介</h2><p>喵速云(CAT77)面向需要跨境访问优化、流媒体播放与远程协作的用户，提供可订阅的机场服务与加速器方案。服务侧重点是线路质量、设备兼容和订阅导入的简便性，而不是堆砌空洞口号。</p><p>节点覆盖亚洲与海外主要区域，线路包含普通优化与 IPLC 专线。协议方面兼容常见代理内核，便于在桌面、手机与部分路由环境中使用同一套订阅。本站为喵速云(CAT77)信息与下载说明的官方入口，套餐内容与页面展示保持一致。</p><p>若您正在寻找可长期使用的加速器，建议先对照套餐流量、同时在线设备数以及是否需要原生流媒体与游戏优化，再决定基础版、旗舰版或团队版。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为当前官方套餐。价格按月展示，年付可降低平均成本。旗舰版在流量、设备数、流媒体与专线优化上更为均衡，适合大多数个人用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">流量按自然月重置，套餐内为极速通道。设备数按同时在线计算。流媒体与游戏表现因地区、时段和客户端规则而异，旗舰版与团队版在原生解锁和专线上更完整。</p></section><section id=\"scenarios\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>需要观看海外影视或音乐平台时，可选用带原生解锁的节点，并在客户端中开启对应分流规则，减少地区限制带来的缓冲与鉴权失败。</p><h3>游戏与实时互动</h3><p>对延迟敏感的对战或主机在线服务，优先使用 IPLC 专线节点。旗舰版针对该场景做了线路优化，适合把游戏流量与普通浏览分开。</p><h3>远程办公与资料获取</h3><p>视频会议、代码仓库、学术文献和云盘同步可通过稳定海外出口完成。团队版适合多人共用同一订阅并做定制分流。</p><h3>出行与多设备切换</h3><p>笔记本、手机和平板可共用订阅。基础版覆盖三台设备，旗舰版五台，满足家庭或个人多终端切换，无需反复更换配置。</p></section><section id=\"guide\"><h2>操作说明与客户端下载</h2><p>喵速云(CAT77)采用订阅制：购买套餐后获得订阅地址，在客户端中导入即可拉取节点。官网建议使用主流开源或常用商业客户端，避免来路不明的安装包。</p><h3>官方下载方向</h3><p>Windows 与 macOS 可使用 Clash 系桌面客户端；Android 可使用 Clash Meta 类应用；iOS 可使用 Shadowrocket、Stash 或 Quantumult X 等支持订阅的工具。请从系统应用商店或开发者公示渠道获取安装包，再回到本站对照导入步骤。本页不托管安装文件，以防版本被替换。</p><h3>从订阅到连上</h3><ol><li>在官网选择基础版、旗舰版或团队版并完成开通，复制订阅链接。</li><li>安装对应系统客户端，打开订阅/配置页面。</li><li>粘贴订阅 URL，更新一次节点列表，确认出现亚洲与海外入口。</li><li>按延迟或用途选择节点；浏览可走智能分流，游戏可指定专线。</li><li>保存规则后开启系统代理或 VPN 模式，用浏览器访问目标站点验证。</li></ol><p>若节点列表为空，先检查订阅是否过期、客户端是否允许 HTTP(S) 更新，以及系统时间是否准确。旗舰版用户可通过优先工单提交日志片段以便排查。</p></section><section id=\"nodes\"><h2>节点与加速表现</h2><p>线路以香港、东京、新加坡、美西等常用出口为主，普通节点适合日常网页与消息应用，IPLC 更适合持续传输和实时业务。我们持续调整峰值带宽与入口负载，避免把所有用户压在单一中转上。</p><p>协议兼容 Trojan、V2Ray 以及较新的加速内核，具体以订阅下发为准。客户端规则建议国内直连、国外代理，可减少无关流量占用套餐额度。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>喵速云(CAT77)是什么服务？和普通加速器有何不同？</summary><p>喵速云(CAT77)是提供机场订阅的网络加速品牌，用户通过客户端导入官方订阅后选择节点上网。与单一软件加速器相比，订阅可在多款客户端间复用，并按套餐区分流量、设备数和专线能力。</p></details><details><summary>客户端下载是否必须走官网安装包？</summary><p>不强制提供单一安装包。推荐从各系统正规渠道下载 Clash、Shadowrocket 等成熟客户端，再用喵速云订阅地址导入。这样可降低篡改风险，也方便跟随客户端自身更新。</p></details><details><summary>三个套餐该如何选择？</summary><p>轻度浏览与三台设备内选择基础版即可。需要更好流媒体解锁、游戏专线和五台设备时选择旗舰版。工作室或多人共享、需要高带宽与定制路由时选择团队版。年付适合已经确认用量的用户。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>当月流量用尽后需升级或等待重置，套餐内不额外限速。同时在线超过套餐设备数时，新连接可能失败，断开闲置终端即可。建议在客户端查看流量统计，避免后台更新占用额度。</p></details><details><summary>如何确认自己访问的是官方网站？</summary><p>认准品牌全称喵速云(CAT77)以及本页套餐结构：基础版、旗舰版、团队版的价格与权益与开通页一致。不要向非官方人员购买所谓“内部折扣订阅”，以免链接被回收或隐私泄露。</p></details><details><summary>工单支持范围包括哪些？</summary><p>可咨询订阅无法更新、节点全红、流媒体鉴权失败以及规则写法。旗舰版为 7x24 优先队列，团队版另有专属客户经理协助路由定制。配置类问题请说明系统和客户端名称，便于对照。</p></details></section><section id=\"partners\"><h2>广告与友情链接</h2><p>本站预留文字合作位，仅展示与网络工具、教程和站群索引相关的友链。如需交换链接或投放说明，请通过官方工单备注“合作”。</p><ul class=\"friends\"><li><a href=\"#\">客户端规则示例</a></li><li><a href=\"#\">延迟检测方法</a></li><li><a href=\"#\">流媒体分区说明</a></li><li><a href=\"#\">站点地图入口</a></li><li><a href=\"#\">隐私与使用须知</a></li></ul></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"container\"><p>喵速云(CAT77)官方网站 · 机场订阅与客户端下载说明</p><p>页面内容与套餐展示以开通时确认信息为准。请合法合规使用网络加速服务。</p><p><a href=\"#intro\">返回简介</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#\">Sitemap</a></p></div></footer>",
+          "hash": "2b625506290755d5881fc8ff08037d079fbd3bdc8608e124a36133742b2e1d9b",
+          "seo": {
+            "title": "喵速云(CAT77)官网 - 高速VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "喵速云,CAT77,喵速云机场,CAT77 VPN,梯子网络加速,加速器,客户端下载,官网,官方下载,IPLC,流媒体",
+            "description": "喵速云(CAT77)是专注高速机场订阅与VPN网络加速的品牌，提供多套餐流量、全球节点、流媒体解锁及全平台客户端官方下载，助力稳定畅快的上网体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhengweiyiliao.cn",
+    "host": "p-7463d1691a.zhengweiyiliao.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "zhengweiyiliao.cn",
+      "url": "https://zhengweiyiliao.cn/",
+      "label": "大阪国際",
+      "apex": "zhengweiyiliao.cn",
+      "kind": null,
+      "identity": "thhmmec/page-c6868f2aecb15aafc99a31a2"
+    },
+    {
+      "host": "ok7p0i.cn",
+      "url": "https://ok7p0i.cn/",
+      "label": "喵速云(CAT77)",
+      "apex": "ok7p0i.cn",
+      "kind": null,
+      "identity": "wangbadan9/page-f0dcfd457ef4bdc099bbaf76"
+    },
+    {
+      "host": "pv7h9e.cn",
+      "url": "https://pv7h9e.cn/",
+      "label": "喵速云(CAT77)",
+      "apex": "pv7h9e.cn",
+      "kind": null,
+      "identity": "pokiu9728/page-9153b187836ca2ab8b294e75"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1c9b783482be19a8c586c277fecd772a4219696d503eb37fd3b64353e389aa74",
+    "sitemap.xml": "c83a09a29cdc20a96a5500c545d7b6f2d16130c601555945b425532075cb5f45",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "55abbcf69c666cd97104f77d1c239bf57f42d52e3b2bffb9628663907bc96be3",
+    "robots.txt": "79f1a7b5ef1e91a1875e69af1d6888c8b152d8f6820b333a3f54060e891bbfd2",
+    "d4e08af7f139de1e7ebe4467c8103995.txt": "b55e14318fa7cf4dee9d393ad2bdb1d4e3ca6e4c3a23032d929f13f170d5f145"
+  },
+  "revision": "27fa4b029a0dee692b3d10c527b0b6c63d6f11dab997a6e925c6b332485db867"
+}
